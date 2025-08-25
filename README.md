@@ -31,11 +31,13 @@ git clone https://github.com/tuusuario/cat-maze.git
 cd cat-maze
 ```
 2. Instalar dependencias
+   ```bash
    cargo build
-
+   ```
 3. Ejecutar el juego
+   ```bash
    cargo run
-
+   ```
 ## Controles
 
 - W/S: Avanzar / Retroceder
