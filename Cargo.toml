@@ -1,0 +1,10 @@
+[package]
+name = "cat_game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minifb = "0.25"
+raylib = "5.0.2"
+nalgebra-glm = "0.18"
+rodio = "0.17"
